@@ -1,0 +1,7 @@
+Makanan favorit
+1. Ayam geprek
+2. Baso tahu
+3. Bubur
+4. Mie instan
+5. Seblak
+6. Baso
